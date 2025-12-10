@@ -8,6 +8,7 @@ public class TodosAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TodosAppApplication.class, args);
+		//Added on git *main branch
 	}
 	
 	
